@@ -1,0 +1,5 @@
+pyrogram
+pytgcalls
+yt_dlp
+tgcrypto
+qrcode
